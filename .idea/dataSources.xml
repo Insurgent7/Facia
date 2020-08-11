@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Facia_Info" uuid="443ce1f8-0495-4dfc-99ae-d4d04235fd44">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\soura\PycharmProjects\Facia\Facia_Info.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Facia_IT_Class" uuid="c3fa43f6-a22a-4f9e-8753-c87ca4ed045c">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\soura\PycharmProjects\Facia\Facia_IT_Class.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Facia_IT_Emotion" uuid="96f4d581-8ab3-437f-94c6-e45683f05f17">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\soura\PycharmProjects\Facia\Facia_IT_Emotion.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
